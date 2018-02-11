@@ -156,7 +156,7 @@ The topic in these papers include Chinese word segmentation, part-of-speech tagg
 
 
 ### ACL 2012
-[[Website]](https://aclanthology.coli.uni-saarland.de/events/acl-2017)
+[[Website]](https://aclanthology.coli.uni-saarland.de/events/acl-2012)
 - **PDTB-style Discourse Annotation of Chinese Text**. [[pdf]](http://www.aclweb.org/anthology/P12-1008) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/P12-1008/p12-1008.bib)
 - **Reducing Approximation and Estimation Errors for Chinese Lexical Processing with Heterogeneous Annotations**. [[pdf]](http://www.aclweb.org/anthology/P12-1025) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/P12-1025/p12-1025.bib)
 - **Capturing Paradigmatic and Syntagmatic Lexical Relations: Towards Accurate Chinese Part-of-Speech Tagging**. [[pdf]](http://www.aclweb.org/anthology/P12-1026) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/P12-1026/p12-1026.bib)
@@ -204,7 +204,7 @@ The topic in these papers include Chinese word segmentation, part-of-speech tagg
 
 
 ### ACL 2008
-[[Website]](https://aclanthology.coli.uni-saarland.de/events/acl-2017)
+[[Website]](https://aclanthology.coli.uni-saarland.de/events/acl-2008)
 - **Measure Word Generation for English-Chinese SMT Systems**. [[pdf]](http://www.aclweb.org/anthology/P08-1011) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/P08-1011/p08-1011.bib)
 - **Unsupervised Translation Induction for Chinese Abbreviations using Monolingual Corpora**. [[pdf]](http://www.aclweb.org/anthology/P08-1049) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/P08-1049/p08-1049.bib)
 - **Chinese-English Backward Transliteration Assisted with Mining Monolingual Web Pages**. [[pdf]](http://www.aclweb.org/anthology/P08-1062) [[bib]](https://aclanthology.coli.uni-saarland.de/papers/P08-1062/p08-1062.bib)
